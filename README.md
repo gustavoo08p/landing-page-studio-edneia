@@ -13,14 +13,6 @@ A proposta combina:
 - prova visual com resultados reais
 - estrutura leve e pronta para evoluir
 
-## Preview do Projeto
-
-Se quiser, você pode adicionar aqui depois:
-
-```md
-![Preview do projeto](./images/preview.png)
-```
-
 ## Funcionalidades
 
 - seção hero com chamada principal e CTA de agendamento
