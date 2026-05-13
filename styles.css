@@ -280,7 +280,7 @@ p {
 }
 
 .results__gallery {
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: minmax(0, 1fr);
 }
 
 .service-card,
@@ -466,8 +466,11 @@ p {
   }
 
   .services__grid,
-  .results__gallery,
   .contact__details {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .results__gallery {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
